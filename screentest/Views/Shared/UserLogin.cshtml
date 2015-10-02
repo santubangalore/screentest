@@ -1,0 +1,24 @@
+﻿@model ScreenTest.Models.LoginModel
+@{
+    ViewBag.Title = "UserLogin";
+}
+
+<h2>UserLogin</h2>
+
+
+<section id="loginForm">
+        @using (Html.BeginForm(new { ReturnUrl = ViewBag.ReturnUrl })) {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true)
+
+            <fieldset>
+                @Html.LabelFor(m => m.UserName)
+                @Html.TextBoxFor(m => m.UserName, new { @Value = "jane@smith.com", @class = "text ui-widget-content ui-corner-all" })
+                <input type="password" name="password" id="password" value="xxxxxxx" class="text ui-widget-content ui-corner-all"-->
+                @Html.LabelFor(m => m.Password)
+                @Html.PasswordFor(m => m.Password, new { @Value = "xxxxxxx", @class = "text ui-widget-content ui-corner-all" })
+                <input type="submit" value="Log in" />
+                <p>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</p>
+            </fieldset>
+    }
+</section>

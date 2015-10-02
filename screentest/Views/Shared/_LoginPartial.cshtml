@@ -1,0 +1,59 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <style>
+        .logintxt {
+            width: 180px;
+            font-family:Calibri;
+            font-size:smaller;
+        }
+    </style>
+</head>
+<body>
+    <div id="dlgLogin">
+         
+                    <table>
+                        <tr>
+                            <td>User Id:</td>
+                            <td>@Html.TextBox("username",null, new {@class="logintxt"})</td>
+                        </tr>
+                        <tr>
+                            <td>Password:</td>
+                            <td>@Html.Password("password",null, new {@class="logintxt"})</td>
+                        </tr>
+                    </table>
+                </div>
+
+                <script type="text/javascript">
+                    $(function () {
+                        $('#dlgLogin').dialog({
+                            modal: true,
+                            title:'Login',
+                            sizeable: false,
+                            width:300,
+                            dialogClass: 'myTitleClass',
+                            buttons: {
+                                Login: function () {
+                                    $.post('@Url.Action("Login","Login")',
+                                    {
+                                        username: $('#username').val(),
+                                        password: $('#password').val()
+                                    },
+                                    function (data, status, xhr) {
+                                        // if (data.Success) {
+                                            console.log("success");
+                                            $('#dlgLogin').dialog('close');
+                                            $("divLoginButton").load('@Url.Action("GetLoginButton", "Login")');
+                                           setTimeout("location.href = '/';", 250);
+                                        //}
+                                    });
+                                },
+                                Cancel: function () { $(this).dialog('close'); }
+                            }
+                        });
+                    });
+                </script>
+</body>
+</html>

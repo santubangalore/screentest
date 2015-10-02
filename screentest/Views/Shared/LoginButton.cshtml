@@ -1,0 +1,37 @@
+﻿    <style>
+
+        .myTitleClass .ui-dialog-titlebar {
+          background:lightblue;   
+
+        }
+    </style>
+<div id="divLoginButton">
+
+    @if (Session["user"] != null)
+    {
+        <text>@Context.User.Identity.Name [<a href="javascript:SignOut()" >Log Off</a>]</text>
+        <script type="text/javascript">
+            function SignOut()
+            {
+                $('#divLoginButton').load('@Url.Action("LogOff","Login")');
+            }
+        </script>
+    }
+   else
+    {
+        @:[<a href="javascript:ShowLogindiv()">Log On</a> ] 
+        <script type="text/javascript">
+            function ShowLogindiv() {
+                if ($('#divLogin').contents().length == 0) {
+                    $('#divLogin').load('@Url.Action("OpenLogin", "Login")')
+                   }
+                else {
+                      // alert($('#divLogin').length);
+                       $('#username,#password').val('');
+                       $('#dlgLogin').dialog('open');
+                   }
+               }
+        </script>
+        <div id="divLogin"></div>
+    }
+</div>

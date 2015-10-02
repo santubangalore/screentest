@@ -1,0 +1,160 @@
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\ScreenTest.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\ScreenTest.pdb
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Antlr3.Runtime.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\DotNetOpenAuth.AspNet.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\DotNetOpenAuth.Core.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\DotNetOpenAuth.OAuth.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\DotNetOpenAuth.OpenId.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\EntityFramework.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Data.Edm.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Data.OData.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Web.Infrastructure.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Newtonsoft.Json.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Net.Http.Formatting.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Spatial.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Helpers.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Http.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Http.OData.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Http.WebHost.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Mvc.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Optimization.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Razor.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.WebPages.Deployment.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.WebPages.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.WebPages.Razor.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\WebGrease.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\WebMatrix.Data.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\WebMatrix.WebData.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\EntityFramework.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Newtonsoft.Json.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Net.Http.Formatting.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Helpers.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Http.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Http.WebHost.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Mvc.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Razor.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.WebPages.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.WebPages.Deployment.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.WebPages.Razor.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\WebMatrix.Data.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\WebMatrix.WebData.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\DotNetOpenAuth.AspNet.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\DotNetOpenAuth.Core.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\DotNetOpenAuth.OAuth.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\DotNetOpenAuth.OpenId.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Web.Http.OData.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Data.Edm.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Data.OData.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\System.Spatial.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\de\Microsoft.Data.Edm.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\es\Microsoft.Data.Edm.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\it\Microsoft.Data.Edm.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\de\Microsoft.Data.OData.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\es\Microsoft.Data.OData.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\fr\Microsoft.Data.OData.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\it\Microsoft.Data.OData.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\ja\Microsoft.Data.OData.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\ko\Microsoft.Data.OData.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\ru\Microsoft.Data.OData.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\de\System.Spatial.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\es\System.Spatial.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\fr\System.Spatial.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\it\System.Spatial.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\ja\System.Spatial.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\ko\System.Spatial.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\ru\System.Spatial.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\zh-Hans\System.Spatial.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\zh-Hant\System.Spatial.resources.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\obj\Debug\ScreenTest.csprojResolveAssemblyReference.cache
+D:\santu\Screentest\ScreenTest\ScreenTest\obj\Debug\ScreenTest.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\obj\Debug\ScreenTest.pdb
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.ServiceLocation.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.Unity.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.Unity.Interception.dll
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.ServiceLocation.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.Unity.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.Unity.Interception.xml
+D:\santu\Screentest\ScreenTest\ScreenTest\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\ScreenTest.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\ScreenTest.pdb
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\NLog.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Owin.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\PagedList.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\PagedList.Mvc.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\System.Web.Helpers.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\System.Web.Razor.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\System.Web.WebPages.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\WebMatrix.Data.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\WebMatrix.WebData.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\EntityFramework.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\NLog.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\PagedList.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\PagedList.Mvc.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\System.Web.Helpers.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\System.Web.Razor.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\System.Web.WebPages.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\WebMatrix.Data.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\WebMatrix.WebData.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\obj\Debug\ScreenTest.csprojResolveAssemblyReference.cache
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\obj\Debug\ScreenTest.dll
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\obj\Debug\ScreenTest.pdb
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Santu\Documents\Visual Studio 2012\Projects\MVC\ScreenTest\ScreenTest\bin\EntityFramework.SqlServer.xml

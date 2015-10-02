@@ -1,0 +1,255 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section featured {
+
+
+    @* <div id="sliderFrame">
+        <div id="slider">
+         
+             <a class="lazyImage" href="images/image-slider-1.jpg" title="Customizable Transition Effects">Customizable Transition Effects</a>
+           
+            <a class="lazyImage" href="images/image-slider-2.jpg" title="Customizable Transition Effects">Customizable Transition Effects</a>
+           
+            <a class="lazyImage" href="images/image-slider-3.jpg" title="Customizable Transition Effects">Customizable Transition Effects</a>
+           
+            <a class="lazyImage" href="images/image-slider-4.jpg" title="Pure Javascript. No jQuery. No flash.">Plain Javascript Slider</a>
+            <a class="lazyImage" href="images/image-slider-5.jpg" title="#htmlcaption5">Lazy Loading Image</a>
+            <a class="lazyImage" href="images/image-slider-1.jpg" title="Light weight Image Slider">Light weight Image Slider</a>
+            <a class="lazyImage" href="images/image-slider-2.jpg" title="Fine tuned. Sleek & Smooth">Fine tuned. Sleek & Smooth</a>
+            <a class="lazyImage" href="images/image-slider-3.jpg" title="Easy-to-Use Slider">Easy-to-Use Slider</a>
+        </div>
+        <div style="display: none;">
+            <div id="htmlcaption3">
+               
+            </div>
+            <div id="htmlcaption5">
+                Smart Lazy Loading Image
+            </div>
+        </div>
+                
+        <!--thumbnails-->
+        <div id="thumbs">
+            <div class="thumb"><img src="images/thumb1.jpg" /></div>
+            <div class="thumb"><img src="images/thumb2.jpg" /></div>
+            <div class="thumb"><img src="images/thumb3.jpg" /></div>
+            <div class="thumb"><img src="images/thumb4.jpg" /></div>
+            <div class="thumb"><img src="images/thumb5.jpg" /></div>
+            <div class="thumb"><img src="images/thumb1.jpg" /></div>
+            <div class="thumb"><img src="images/thumb2.jpg" /></div>
+            <div class="thumb"><img src="images/thumb3.jpg" /></div>
+        </div>
+    </div>*@
+
+    <script>
+        jQuery(document).ready(function ($) {
+
+            $('#myCarousel').carousel({
+                interval: 5000
+            });
+
+            //Handles the carousel thumbnails
+            $('[id^=carousel-selector-]').click(function () {
+                var id_selector = $(this).attr("id");
+                try {
+                    var id = /-(\d+)$/.exec(id_selector)[1];
+                    console.log(id_selector, id);
+                    jQuery('#myCarousel').carousel(parseInt(id));
+                } catch (e) {
+                    console.log('Regex failed!', e);
+                }
+            });
+            // When the carousel slides, auto update the text
+            $('#myCarousel').on('slid.bs.carousel', function (e) {
+                var id = $('.item.active').data('slide-number');
+                $('#carousel-text').html($('#slide-content-' + id).html());
+            });
+        });
+    </script>
+
+    <div class="container">
+        <div id="main_area">
+            <!-- Slider -->
+            <div class="row">
+                <div class="col-sm-6" id="slider-thumbs">
+                    <!-- Bottom switcher of slider -->
+                    <ul class="hide-bullets">
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-0">
+                                <img src="images/Productimages/Ten.jpg">
+                            </a>
+                        </li>
+
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-1">
+                                <img src="images/Productimages/One.jpg"></a>
+                        </li>
+
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-2">
+                                <img src="images/Productimages/Two.jpg"></a>
+                        </li>
+
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-3">
+                                <img src="images/Productimages/Eleven.jpg"></a>
+                        </li>
+
+                        @*    <li class="col-sm-3">
+                        <a class="thumbnail" id="carousel-selector-4"><img src="images/Productimages/Three.jpg"></a>
+                    </li>*@
+
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-5">
+                                <img src="images/Productimages/Fifteen.jpg"></a>
+                        </li>
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-6">
+                                <img src="images/Productimages/Six.jpg"></a>
+                        </li>
+
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-7">
+                                <img src="images/Productimages/Seven.jpg"></a>
+                        </li>
+
+                 @*       <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-8">
+                                <img src="images/Productimages/Eight.jpg"></a>
+                        </li>*@
+
+                        @*  <li class="col-sm-3">
+                        <a class="thumbnail" id="carousel-selector-9"><img src="images/Productimages/Three.jpg"></a>
+                    </li>*@
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-10">
+                                <img src="images/Productimages/Four.jpg"></a>
+                        </li>
+
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-11">
+                                <img src="images/Productimages/Twelve.jpg"></a>
+                        </li>
+
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-12">
+                                <img src="images/Productimages/Thirteen.jpg"></a>
+                        </li>
+
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-13">
+                                <img src="images/Productimages/Fourteen.jpg"></a>
+                        </li>
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-14">
+                                <img src="images/Productimages/Five.jpg"></a>
+                        </li>
+
+                        <li class="col-sm-3">
+                            <a class="thumbnail" id="carousel-selector-15">
+                                <img src="images/Productimages/Sixteen.jpg"></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-6">
+                    <div class="col-xs-12" id="slider">
+                        <!-- Top part of the slider -->
+                        <div class="row">
+                            <div class="col-sm-12" id="carousel-bounding-box">
+                                <div class="carousel slide" id="myCarousel">
+                                    <!-- Carousel items -->
+                                    <div class="carousel-inner">
+                                        <div class="active item" data-slide-number="0">
+                                            <img src="http://placehold.it/470x480&text=zero">
+                                        </div>
+
+                                        <div class="item" data-slide-number="1">
+                                            <img src="http://placehold.it/470x480&text=1">
+                                        </div>
+
+                                        <div class="item" data-slide-number="2">
+                                            <img src="http://placehold.it/470x480&text=2">
+                                        </div>
+
+                                        <div class="item" data-slide-number="3">
+                                            <img src="http://placehold.it/470x480&text=3">
+                                        </div>
+
+                                        <div class="item" data-slide-number="4">
+                                            <img src="http://placehold.it/470x480&text=4">
+                                        </div>
+
+                                        <div class="item" data-slide-number="5">
+                                            <img src="http://placehold.it/470x480&text=5">
+                                        </div>
+
+                                        <div class="item" data-slide-number="6">
+                                            <img src="http://placehold.it/470x480&text=6">
+                                        </div>
+
+                                        <div class="item" data-slide-number="7">
+                                            <img src="http://placehold.it/470x480&text=7">
+                                        </div>
+
+                                        <div class="item" data-slide-number="8">
+                                            <img src="http://placehold.it/470x480&text=8">
+                                        </div>
+
+                                        <div class="item" data-slide-number="9">
+                                            <img src="http://placehold.it/470x480&text=9">
+                                        </div>
+
+                                        <div class="item" data-slide-number="10">
+                                            <img src="http://placehold.it/470x480&text=10">
+                                        </div>
+
+                                        <div class="item" data-slide-number="11">
+                                            <img src="http://placehold.it/470x480&text=11">
+                                        </div>
+
+                                        <div class="item" data-slide-number="12">
+                                            <img src="http://placehold.it/470x480&text=12">
+                                        </div>
+
+                                        <div class="item" data-slide-number="13">
+                                            <img src="http://placehold.it/470x480&text=13">
+                                        </div>
+
+                                        <div class="item" data-slide-number="14">
+                                            <img src="http://placehold.it/470x480&text=14">
+                                        </div>
+
+                                        <div class="item" data-slide-number="15">
+                                            <img src="http://placehold.it/470x480&text=15">
+                                        </div>
+                                    </div>
+                                    <!-- Carousel nav -->
+                                    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                                        <span class="glyphicon glyphicon-chevron-left"></span>
+                                    </a>
+                                    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                                        <span class="glyphicon glyphicon-chevron-right"></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/Slider-->
+            </div>
+
+        </div>
+    </div>
+}
+@*<link href="Content/threeD.css" rel="stylesheet">
+<div id="container">
+  <div id="cube" class="animate">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+</div>*@
+
